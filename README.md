@@ -1,3 +1,7 @@
+## About this project
+This project was made from the tutorial with [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hL6aCFKyagrT1RCfVN4w2Q) on YouTube. It is a pizza website, where you can order pizzas, but only registere users can login and complete and delete the orders.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
